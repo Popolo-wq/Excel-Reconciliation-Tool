@@ -74,3 +74,9 @@ The generated `reconciliation_report.xlsx` contains five sheets:
 - **pandas** — data loading, merging, comparison
 - **openpyxl** — formatted multi-sheet workbook, highlighting, embedded chart
 - **Faker** — realistic sample data generation
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
